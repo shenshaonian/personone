@@ -1,0 +1,6 @@
+Compiled from "Demo1.java"
+public class jvm.虚拟机栈.Demo1 {
+  public jvm.虚拟机栈.Demo1();
+  static int hello();
+  public static void main(java.lang.String[]);
+}
